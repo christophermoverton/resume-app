@@ -138,13 +138,13 @@
              <div class="row">
                  <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
                      <section>
-                         <h3 class="ds-work-tilte">Tripy mobile app</h3>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis sem maximus, ornare metus ut, congue enim. Sed fermentum nulla tellus, quis efficitur mauris tristique efficitur. Aliquam rhoncus sem sed ullamcorper venenatis. Aenean malesuada eu orci non sodales. </p>
-                         <a href="works-setails.html" class="ds-button">Details</a>
+                         <h3 class="ds-work-tilte">Resume Web App</h3>
+                         <p>The web app that you are presently visiting is powered by Angular with Bootstrap and integrated template!</p>
+                         <a href="https://github.com/christophermoverton/resume-app" class="ds-button">Details</a>
                      </section>
                  </div>
                  <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
-                     <figure><img src="assets/images/work-1.jpg"></figure>
+                     <figure><img src="assets/images/work-1.png"></figure>
                  </div>
              </div>
            </div>
@@ -152,27 +152,13 @@
              <div class="row">
                  <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
                      <section>
-                         <h3 class="ds-work-tilte">Hello mobile app</h3>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis sem maximus, ornare metus ut, congue enim. Sed fermentum nulla tellus, quis efficitur mauris tristique efficitur. Aliquam rhoncus sem sed ullamcorper venenatis. Aenean malesuada eu orci non sodales. </p>
-                         <a href="works-setails.html" class="ds-button">Details</a>
+                         <h3 class="ds-work-tilte">Python Resume pdf format to JSON converter</h3>
+                         <p>Extracting text data from pdf format file.  No CV (computer vision) read data.  Using custom and resume specific regular expressions parsing of resume text data for JSON file export.  Using JSON file, you can import to the above Angular Web app assets, for example!</p>
+                         <a href="https://github.com/christophermoverton/pdftojson" class="ds-button">Details</a>
                      </section>
                  </div>
                  <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
-                     <figure><img src="assets/images/work-2.jpg"></figure>
-                 </div>
-             </div>
-           </div>
-           <div class="ds-work-list">
-             <div class="row">
-                 <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
-                     <section>
-                         <h3 class="ds-work-tilte">Cute cookies app</h3>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis sem maximus, ornare metus ut, congue enim. Sed fermentum nulla tellus, quis efficitur mauris tristique efficitur. Aliquam rhoncus sem sed ullamcorper venenatis. Aenean malesuada eu orci non sodales. </p>
-                         <a href="works-setails.html" class="ds-button">Details</a>
-                     </section>
-                 </div>
-                 <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
-                      <figure><img src="assets/images/work-3.jpg"></figure>
+                     <figure><img src="assets/images/work-2.png"></figure>
                  </div>
              </div>
            </div>
@@ -192,37 +178,5 @@
       <span class="ds-copyright">© 2022 All rights reserved. Free minimal bootstrap template by <a href="https://designstub.com/" target="_blank">Designstub</a>.</span>
   </div>
 </footer>
-  <section id="save">
-    <section class="sheet">
-      <aside>
-        <div class="jsonData">
-            <h1>{{ jsonData.name }}</h1>
-            <p>{{ jsonData.contact.email }}</p>
-            <p>{{ jsonData.contact.phone }}</p>
-            <p>{{ jsonData.contact.location }}</p>
 
-            <h2>Employment History</h2>
-            
-            <div *ngFor="let job of jsonData.employment_history">
-              {{ job.job_title }} at {{ job.company_location }} 
-              <p>({{ job.employment_period}})</p>
-              <div *ngFor="let responsibility of job.responsibilities">
-                  {{responsibility}} 
-              </div>
-              <p></p>
-            </div>
-            
-          
-            <h2>Education</h2>
-            <ul>
-              <li *ngFor="let education of jsonData.education">
-                {{ education.course_degree }} at {{ education.university }} ({{ education.date }})
-              </li>
-            </ul>
-          
-            <!-- Repeat the above pattern for other resume sections -->
-        </div>
-      </aside>
-    </section>
-  </section>
 
