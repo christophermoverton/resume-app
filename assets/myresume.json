@@ -6,13 +6,11 @@
         "email": "christophermoverton@gmail.com"
     },
     "links": [
-        "LINKS",
         "linkedin",
         "github",
         "hackerrank"
     ],
     "skills": [
-        "SKILLS",
         "Git",
         "SQL",
         "Python",
@@ -26,8 +24,22 @@
         "Angular",
         "TypeScript"
     ],
-    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
+        {
+            "job_title": "Customer Service",
+            "company_name": "Verizon Wireless",
+            "company_location": " Bellevue",
+            "employment_period": "August 2000 \u2014 January 2005",
+            "responsibilities": [
+                "\u2022Proficiently managed billing inquiries and addressed account-related issues with ",
+                "precision.",
+                "\u2022Provided expert guidance on product plans and offered top-tier support for ",
+                "wireless phone products.",
+                "\u2022Delivered technical expertise for wireless issues, ensuring swift and effective ",
+                "problem resolution."
+            ]
+        },
         {
             "job_title": "Software Developer",
             "company_name": "Harvest Moon Studios",
@@ -101,8 +113,8 @@
             ]
         },
         {
-            "job_title": "Stay-at-home Parent",
-            "company_name": "Home",
+            "job_title": "Stay",
+            "company_name": "Home Parent",
             "company_location": " Olathe",
             "employment_period": "April 2018 \u2014 Present",
             "responsibilities": [
@@ -166,6 +178,12 @@
             "course_degree": "Python Unit Tests to demonstrate TDD",
             "university": " Coursera",
             "date": "October 2023",
+            "links": "https://coursera.org/share/76500a77df0f563c5063173cdc331508"
+        },
+        {
+            "course_degree": "Databases and SQL for Data Science with Python",
+            "university": " Coursera",
+            "date": "October 2023 \u2014 October 2023",
             "links": null
         }
     ]
