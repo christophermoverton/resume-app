@@ -24,7 +24,7 @@
         "Angular",
         "TypeScript"
     ],
-    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
             "job_title": "Customer Service",
@@ -190,7 +190,13 @@
             "course_degree": "Hands-on Introduction to Linux Commands and Shell Scripting",
             "university": " Coursera",
             "date": "October 2023 \u2014 October 2023",
-            "links": null
+            "links": "https://www.coursera.org/account/accomplishments/certificate/YPYLGTH9SLSG"
+        },
+        {
+            "course_degree": "Relational Database Administration (DBA) IBM",
+            "university": " Coursera",
+            "date": "October 2023 \u2014 October 2023",
+            "links": "https://coursera.org/share/e5dd06e4d01f4bdd883621c7dc56f4b2"
         }
     ]
 }
