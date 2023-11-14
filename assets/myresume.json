@@ -22,7 +22,9 @@
         "CSS",
         "Node.JS",
         "Angular",
-        "TypeScript"
+        "TypeScript",
+        "Apache Airflow",
+        "Apache Kafka"
     ],
     "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
@@ -197,6 +199,12 @@
             "university": " Coursera",
             "date": "October 2023 \u2014 October 2023",
             "links": "https://coursera.org/share/e5dd06e4d01f4bdd883621c7dc56f4b2"
+        },
+        {
+            "course_degree": " ETL and Data Pipelines with Shell, Airflow and Kafka (IBM)",
+            "university": " Coursera",
+            "date": "October 2023 \u2014 November 2023",
+            "links": null
         }
     ]
 }
