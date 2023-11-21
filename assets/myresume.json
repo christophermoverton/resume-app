@@ -24,7 +24,8 @@
         "Angular",
         "TypeScript",
         "Apache Airflow",
-        "Apache Kafka"
+        "Apache Kafka",
+        "IBM Cognos"
     ],
     "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
@@ -204,6 +205,12 @@
             "course_degree": " ETL and Data Pipelines with Shell, Airflow and Kafka (IBM)",
             "university": " Coursera",
             "date": "October 2023 \u2014 November 2023",
+            "links": "https://www.coursera.org/account/accomplishments/certificate/TERSZUPBYXA6"
+        },
+        {
+            "course_degree": " Getting Started with Data Warehousing and BI Analytics",
+            "university": " Coursera",
+            "date": "November 2023 \u2014 November 2023",
             "links": null
         }
     ]
