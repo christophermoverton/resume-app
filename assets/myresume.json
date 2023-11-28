@@ -27,7 +27,7 @@
         "Apache Kafka",
         "IBM Cognos"
     ],
-    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
             "job_title": "Customer Service",
@@ -209,6 +209,12 @@
         },
         {
             "course_degree": " Getting Started with Data Warehousing and BI Analytics",
+            "university": " Coursera",
+            "date": "November 2023 \u2014 November 2023",
+            "links": "https://www.coursera.org/account/accomplishments/certificate/A763MWENEKTV"
+        },
+        {
+            "course_degree": "Introduction to NoSQL Databases (IBM)",
             "university": " Coursera",
             "date": "November 2023 \u2014 November 2023",
             "links": null
