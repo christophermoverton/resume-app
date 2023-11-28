@@ -25,9 +25,12 @@
         "TypeScript",
         "Apache Airflow",
         "Apache Kafka",
-        "IBM Cognos"
+        "IBM Cognos",
+        "MongoDB",
+        "Apache Cassandra",
+        "IBM Cloudant"
     ],
-    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
             "job_title": "Customer Service",
