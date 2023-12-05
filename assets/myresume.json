@@ -8,7 +8,8 @@
     "links": [
         "linkedin",
         "github",
-        "hackerrank"
+        "hackerrank",
+        "Leetcode"
     ],
     "skills": [
         "Git",
@@ -28,7 +29,9 @@
         "IBM Cognos",
         "MongoDB",
         "Apache Cassandra",
-        "IBM Cloudant"
+        "IBM Cloudant",
+        "Spark",
+        "Hadoop"
     ],
     "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
@@ -220,6 +223,12 @@
             "course_degree": "Introduction to NoSQL Databases (IBM)",
             "university": " Coursera",
             "date": "November 2023 \u2014 November 2023",
+            "links": "https://www.coursera.org/account/accomplishments/certificate/H9SZYDEN9R53"
+        },
+        {
+            "course_degree": "Introduction to Big Data with Spark and Hadoop (IBM)",
+            "university": " Coursera",
+            "date": "November 2023",
             "links": null
         }
     ]
