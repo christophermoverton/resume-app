@@ -31,7 +31,8 @@
         "Apache Cassandra",
         "IBM Cloudant",
         "Spark",
-        "Hadoop"
+        "Hadoop",
+        "Machine Learning"
     ],
     "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
@@ -229,6 +230,12 @@
             "course_degree": "Introduction to Big Data with Spark and Hadoop (IBM)",
             "university": " Coursera",
             "date": "November 2023",
+            "links": "https://www.coursera.org/account/accomplishments/certificate/4EVRFV5R6FSU"
+        },
+        {
+            "course_degree": "Machine Learning with Apache Spark",
+            "university": " Coursera (IBM)",
+            "date": "December 2023",
             "links": null
         }
     ]
