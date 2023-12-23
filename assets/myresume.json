@@ -236,7 +236,13 @@
             "course_degree": "Machine Learning with Apache Spark",
             "university": " Coursera (IBM)",
             "date": "December 2023",
-            "links": null
+            "links": "https://www.coursera.org/account/accomplishments/certificate/YSE4CX7HTM32"
+        },
+        {
+            "course_degree": "IBM Data Engineering",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 December 2023",
+            "links": "https://coursera.org/share/5284efe66e8425bf918d6f2a67f4350c"
         }
     ]
 }
