@@ -34,7 +34,7 @@
         "Hadoop",
         "Machine Learning"
     ],
-    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
             "job_title": "Customer Service",
@@ -243,6 +243,12 @@
             "university": " Coursera",
             "date": "September 2023 \u2014 December 2023",
             "links": "https://coursera.org/share/5284efe66e8425bf918d6f2a67f4350c"
+        },
+        {
+            "course_degree": "Probability Theory; Foundation for Data Science",
+            "university": " University of Colorado-Boulder",
+            "date": "December 2023 \u2014 December 2023",
+            "links": "https://coursera.org/share/ec498635eb6464cbcf2d66ff8613d2df"
         }
     ]
 }
