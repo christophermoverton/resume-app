@@ -32,9 +32,11 @@
         "IBM Cloudant",
         "Spark",
         "Hadoop",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft Azure",
+        "Data Security"
     ],
-    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
             "job_title": "Customer Service",
@@ -90,7 +92,8 @@
                 "listeners, enabling automated trading with lightning speed.",
                 "\u2022Innovatively employed pipenv to manage Python modules within dynamic virtual ",
                 "environments, optimizing workflow efficiency.",
-                "\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
+                "Information Engineering",
+                "Cloud Data Solutions\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
                 "objects, propelling trade analysis and automation.",
                 "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
                 "data management.",
@@ -255,6 +258,12 @@
             "university": " University of Colorado-Boulder",
             "date": "January 2024 \u2014 January 2024",
             "links": "https://coursera.org/share/26c44c5d0f41436db1f5c0ee9da8a15f"
+        },
+        {
+            "course_degree": "Microsoft Azure For Data Engineering",
+            "university": " Microsoft",
+            "date": "January 2024 \u2014 January 2024",
+            "links": "https://coursera.org/share/06fff2ab078d27c77609386122793809"
         }
     ]
 }
