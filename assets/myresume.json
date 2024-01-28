@@ -34,9 +34,15 @@
         "Hadoop",
         "Machine Learning",
         "Microsoft Azure",
-        "Data Security"
+        "Data Security",
+        "Information Engineering",
+        "Cloud Data Solutions",
+        "Inference", 
+        "Statistics",
+        "Data Science",
+        "Probability"
     ],
-    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
             "job_title": "Customer Service",
@@ -92,8 +98,14 @@
                 "listeners, enabling automated trading with lightning speed.",
                 "\u2022Innovatively employed pipenv to manage Python modules within dynamic virtual ",
                 "environments, optimizing workflow efficiency.",
+                "Data Security",
                 "Information Engineering",
-                "Cloud Data Solutions\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
+                "Cloud Data Solutions",
+                "Inference",
+                "Statistics",
+                "Data Science",
+                "Probability",
+                "R\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
                 "objects, propelling trade analysis and automation.",
                 "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
                 "data management.",
@@ -264,6 +276,18 @@
             "university": " Microsoft",
             "date": "January 2024 \u2014 January 2024",
             "links": "https://coursera.org/share/06fff2ab078d27c77609386122793809"
+        },
+        {
+            "course_degree": "Statistical Inference and Hypothesis Testing",
+            "university": " University of Colorado Boulder",
+            "date": "January 2024 \u2014 January 2024",
+            "links": "https://coursera.org/share/7a7aa80a77b10bbd5236db4c33064f94"
+        },
+        {
+            "course_degree": "Data Science Foundations: Statistical Inference",
+            "university": " University of Colorado Boulder",
+            "date": "December 2024 \u2014 January 2024",
+            "links": "https://coursera.org/share/5d060388be4f955d0ea9a8a99c742b56"
         }
     ]
 }
