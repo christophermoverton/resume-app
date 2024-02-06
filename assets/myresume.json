@@ -40,7 +40,8 @@
         "Inference", 
         "Statistics",
         "Data Science",
-        "Probability"
+        "Probability",
+        "R"
     ],
     "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
@@ -98,14 +99,7 @@
                 "listeners, enabling automated trading with lightning speed.",
                 "\u2022Innovatively employed pipenv to manage Python modules within dynamic virtual ",
                 "environments, optimizing workflow efficiency.",
-                "Data Security",
-                "Information Engineering",
-                "Cloud Data Solutions",
-                "Inference",
-                "Statistics",
-                "Data Science",
-                "Probability",
-                "R\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
+                "\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
                 "objects, propelling trade analysis and automation.",
                 "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
                 "data management.",
