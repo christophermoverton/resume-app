@@ -37,28 +37,15 @@
         "Data Security",
         "Information Engineering",
         "Cloud Data Solutions",
-        "Inference", 
+        "Docker",
+        "Inference",
         "Statistics",
         "Data Science",
         "Probability",
         "R"
     ],
-    "profile": "As a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "profile": "Experienced Software Developer with 6 years of expertise in crafting dynamic and \nhigh-performance applications for diverse platforms. Adept at spearheading the \ndevelopment and optimization of innovative software solutions, leveraging a wide range \nof programming languages and tools. Proven track record in leading project initiatives, \nfostering collaborative synergy, and independently executing projects from inception to \ncompletion. An ambitious professional, eager to pivot into a Data Analyst role, equipped \nwith a robust foundation in SQL, Python, statistics, and data engineering. Passionate \nabout leveraging newfound skills and experiences to drive impactful data-driven insights \nand solutions.",
     "employment_history": [
-        {
-            "job_title": "Customer Service",
-            "company_name": "Verizon Wireless",
-            "company_location": " Bellevue",
-            "employment_period": "August 2000 \u2014 January 2005",
-            "responsibilities": [
-                "\u2022Proficiently managed billing inquiries and addressed account-related issues with ",
-                "precision.",
-                "\u2022Provided expert guidance on product plans and offered top-tier support for ",
-                "wireless phone products.",
-                "\u2022Delivered technical expertise for wireless issues, ensuring swift and effective ",
-                "problem resolution."
-            ]
-        },
         {
             "job_title": "Software Developer",
             "company_name": "Harvest Moon Studios",
@@ -103,7 +90,14 @@
                 "objects, propelling trade analysis and automation.",
                 "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
                 "data management.",
-                "\u2022Masterfully employed Git for version control, enhancing project management and ",
+                "Data Security",
+                "Information Engineering",
+                "Cloud Data Solutions",
+                "Inference",
+                "Statistics",
+                "Data Science",
+                "Probability",
+                "R\u2022Masterfully employed Git for version control, enhancing project management and ",
                 "collaboration.",
                 "\u2022Executed the entire project independently, from inception to completion, ",
                 "showcasing a strong foundation of skills.",
@@ -282,6 +276,12 @@
             "university": " University of Colorado Boulder",
             "date": "December 2024 \u2014 January 2024",
             "links": "https://coursera.org/share/5d060388be4f955d0ea9a8a99c742b56"
+        },
+        {
+            "course_degree": "Masters of Science Data Science",
+            "university": "University of Colorado Boulder",
+            "date": "January 2024 \u2014 Present",
+            "links": null
         }
     ]
 }
