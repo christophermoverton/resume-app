@@ -6,6 +6,7 @@
         "email": "christophermoverton@gmail.com"
     },
     "links": [
+        "LINKS",
         "linkedin",
         "github",
         "hackerrank",
@@ -37,14 +38,13 @@
         "Data Security",
         "Information Engineering",
         "Cloud Data Solutions",
-        "Docker",
         "Inference",
         "Statistics",
         "Data Science",
         "Probability",
         "R"
     ],
-    "profile": "Experienced Software Developer with 6 years of expertise in crafting dynamic and \nhigh-performance applications for diverse platforms. Adept at spearheading the \ndevelopment and optimization of innovative software solutions, leveraging a wide range \nof programming languages and tools. Proven track record in leading project initiatives, \nfostering collaborative synergy, and independently executing projects from inception to \ncompletion. An ambitious professional, eager to pivot into a Data Analyst role, equipped \nwith a robust foundation in SQL, Python, statistics, and data engineering. Passionate \nabout leveraging newfound skills and experiences to drive impactful data-driven insights \nand solutions.",
+    "profile": "PROFILE\nExperienced Software Developer with 6 years of expertise in crafting dynamic and \nhigh-performance applications for diverse platforms. Adept at spearheading the \ndevelopment and optimization of innovative software solutions, leveraging a wide range \nof programming languages and tools. Proven track record in leading project initiatives, \nfostering collaborative synergy, and independently executing projects from inception to \ncompletion. An ambitious professional, eager to pivot into a Data Analyst role, equipped \nwith a robust foundation in SQL, Python, statistics, and data engineering. Passionate \nabout leveraging newfound skills and experiences to drive impactful data-driven insights \nand solutions.",
     "employment_history": [
         {
             "job_title": "Software Developer",
@@ -90,7 +90,7 @@
                 "objects, propelling trade analysis and automation.",
                 "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
                 "data management.",
-                "\u2022Masterfully employed Git for version control, enhancing project management and ",
+                "Masterfully employed Git for version control, enhancing project management and ",
                 "collaboration.",
                 "\u2022Executed the entire project independently, from inception to completion, ",
                 "showcasing a strong foundation of skills.",
@@ -122,12 +122,33 @@
             "job_title": "Stay",
             "company_name": "Home Parent",
             "company_location": " Olathe",
-            "employment_period": "April 2018 \u2014 Present",
+            "employment_period": "April 2018 \u2014 April 2025",
             "responsibilities": [
                 "\u2022Nurtured my daughter's well-being from birth to age 4, serving as her primary ",
                 "caregiver.",
                 "\u2022Seized a precious opportunity to be actively present during her formative years ",
-                "before she embarked on her educational journey."
+                "before she embarked on her educational journey.",
+                "\u2022Eagerly poised to relaunch my career in development, harnessing newfound ",
+                "experiences and skills cultivated during my time as a dedicated parent."
+            ]
+        },
+        {
+            "job_title": "Data Science Course Facilitator",
+            "company_name": "University of Colorado Boulder",
+            "company_location": " Boulder",
+            "employment_period": "April 2025 \u2014 Present",
+            "responsibilities": [
+                "\u2022Facilitate graduate-level courses in key areas of data science, including Probability ",
+                "and Statistics, Ethics in Data Science, Cybersecurity for Data Systems , and Data ",
+                "Visualization.",
+                "\u2022Helping students through rigorous academic content, breaking down complex ",
+                "topics such as probabilistic modeling, data privacy, ethical AI use, and visual ",
+                "storytelling with data.",
+                "\u2022Foster student engagement through interactive discussion boards, virtual office ",
+                "hours, and timely feedback on assignments and projects.",
+                "\u2022Assess and provide detailed feedback on coursework, reinforcing theoretical ",
+                "understanding and practical application of data science methods.",
+                "\u2022Support student learning through consistent communication and mentorship, "
             ]
         }
     ],
@@ -267,12 +288,12 @@
         {
             "course_degree": "Data Science Foundations: Statistical Inference",
             "university": " University of Colorado Boulder",
-            "date": "December 2024 \u2014 January 2024",
+            "date": "December 2024",
             "links": "https://coursera.org/share/5d060388be4f955d0ea9a8a99c742b56"
         },
         {
-            "course_degree": "Masters of Science Data Science",
-            "university": "University of Colorado Boulder",
+            "course_degree": "Masters of Science Data Science, University of Colorado Boulder",
+            "university": " Boulder",
             "date": "January 2024 \u2014 Present",
             "links": null
         }
