@@ -1,127 +1,77 @@
 {
     "name": "Christopher Overton",
     "contact": {
-        "location": "Overland Park,  United States",
+        "location": "Overland Park,  Kansas",
         "phone": "9134810582",
         "email": "christophermoverton@gmail.com"
     },
     "links": [
-        "LINKS",
         "linkedin",
         "github",
         "hackerrank",
         "Leetcode"
     ],
     "skills": [
-        "Git",
-        "SQL",
+        "SKILLS",
         "Python",
-        "Java",
         "Scala",
-        "Swift",
-        "Xcode",
-        "Visual Studio Code",
-        "CSS",
-        "Node.JS",
-        "Angular",
-        "TypeScript",
-        "Apache Airflow",
+        "SQL",
+        "R",
+        "Apache Spark",
         "Apache Kafka",
-        "IBM Cognos",
+        "Apache Airflow",
+        "Pandas/Numpy",
+        "Sci-Kit Learn",
+        "Jupyter Notebooks",
+        "Machine Learning",
+        "ETL Pipelines",
+        "Data Warehousing",
+        "PostgreSQL / MySQL",
         "MongoDB",
         "Apache Cassandra",
+        "Microsoft Azure (Data Services)",
+        "Docker & Docker Compose",
+        "Data Visualization",
+        "Redash",
+        "Grafana",
+        "Matplotlib / Seaborn",
+        "problem-solving skills",
+        "Statistical Inference",
+        "Hypothesis Testing",
+        "Regression Analysis",
         "IBM Cloudant",
-        "Spark",
-        "Hadoop",
-        "Machine Learning",
-        "Microsoft Azure",
-        "Data Security",
-        "Information Engineering",
-        "Cloud Data Solutions",
-        "Inference",
-        "Statistics",
-        "Data Science",
-        "Probability",
-        "R"
+        "Git / GitHub",
+        "Linux / Shell Scripting",
+        "Data Modeling",
+        "Experimental Design (e.g., ANOVA)",
+        "Data Storytelling",
+        "Communication (for virtual course ",
+        "facilitation, etc.)",
+        "Team Collaboration (cross-functional experience)"
     ],
-    "profile": "PROFILE\nExperienced Software Developer with 6 years of expertise in crafting dynamic and \nhigh-performance applications for diverse platforms. Adept at spearheading the \ndevelopment and optimization of innovative software solutions, leveraging a wide range \nof programming languages and tools. Proven track record in leading project initiatives, \nfostering collaborative synergy, and independently executing projects from inception to \ncompletion. An ambitious professional, eager to pivot into a Data Analyst role, equipped \nwith a robust foundation in SQL, Python, statistics, and data engineering. Passionate \nabout leveraging newfound skills and experiences to drive impactful data-driven insights \nand solutions.",
+    "profile": "Experienced Software Developer with 6 years of success designing and developing \nhigh-performance applications across multiple platforms. Proven ability to lead projects, \noptimize complex systems, and collaborate effectively with cross-functional teams. \nActively transitioning into Data Analytics with strong skills in SQL, Python, statistics, \nand data engineering. Driven to turn data into actionable insights that solve real-world \nproblems and support informed decision-making.",
     "employment_history": [
         {
-            "job_title": "Software Developer",
-            "company_name": "Harvest Moon Studios",
-            "company_location": " Los Angeles",
-            "employment_period": "July 2016 \u2014 February 2017",
+            "job_title": "Data Science Course Facilitator",
+            "company_name": "University of Colorado Boulder",
+            "company_location": "Boulder, CO",
+            "employment_period": "April 2025 \u2014 Present",
             "responsibilities": [
-                "\u2022Spearheaded the development of an iOS application for NOAA and the National ",
-                "Park Service, with dynamic animated screen transitions, captivating photo ",
-                "galleries, and seamless touch-supported scrollable interfaces.",
-                "\u2022Orchestrated and optimized an expansive image library, facilitating efficient batch ",
-                "page instancing across diverse hardware platforms.",
-                "\u2022Leveraged Swift in Xcode for the rapid and robust development of the iOS ",
-                "application.",
-                "\u2022Pioneered a cutting-edge .NET WPF application, empowering LA civic spaces ",
-                "with touch and multi-touch gesture capabilities, multifaceted page navigation, ",
-                "and visually engaging user interface manipulations, including custom slide tile ",
-                "animations.",
-                "\u2022Fostered collaborative synergy within development forums and GitHub for ",
-                "seamless project execution.",
-                "\u2022Transformed and transposed a Java-based graphics script into C# for enhanced ",
-                "performance and efficiency.",
-                "\u2022Engineered Python scripts to create a dynamic physics collision system for ",
-                "immersive animation rendering.",
-                "\u2022Innovatively sourced Heightmap data from public USGS and Open Source GIS ",
-                "software, utilizing native Python scripts for vivid terrain colorization and striking ",
-                "hillshading effects."
+                "\u2022Facilitation of graduate-level courses for 30+ students per term in Probability, ",
+                "Statistics, Ethics, Cybersecurity, and Data Visualization",
+                "\u2022Break down complex topics like probabilistic modeling, ethical AI, and visual data ",
+                "storytelling",
+                "\u2022Promote engagement via discussion boards, virtual office hours, and prompt ",
+                "feedback",
+                "\u2022Assess assignments with detailed input to reinforce theory and practical skills",
+                "\u2022Mentor and support diverse students in a remote learning environment through ",
+                "consistent communication"
             ]
         },
         {
-            "job_title": "Software Developer",
-            "company_name": "SVP Consulting",
-            "company_location": " New Jersey",
-            "employment_period": "February 2018 \u2014 April 2018",
-            "responsibilities": [
-                "\u2022Engineered a high-performance Forex trading console application, merging Python ",
-                "and MQL4, harnessing the potential of a Forex API.",
-                "\u2022Spearheaded the integration of threaded asynchronous handling and event ",
-                "listeners, enabling automated trading with lightning speed.",
-                "\u2022Innovatively employed pipenv to manage Python modules within dynamic virtual ",
-                "environments, optimizing workflow efficiency.",
-                "\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
-                "objects, propelling trade analysis and automation.",
-                "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
-                "data management.",
-                "Masterfully employed Git for version control, enhancing project management and ",
-                "collaboration.",
-                "\u2022Executed the entire project independently, from inception to completion, ",
-                "showcasing a strong foundation of skills.",
-                "\u2022Explore my portfolio on Upwork at ",
-                "https://www.upwork.com/freelancers/~016e516f5ff651848b?viewMode=1 ."
-            ]
-        },
-        {
-            "job_title": "Software Development Support",
-            "company_name": "3 Fuerzas Technology Solutions (EDZSystems),",
-            "company_location": "Overland Park",
-            "employment_period": "January 2018 \u2014 March 2018",
-            "responsibilities": [
-                "\u2022Spearheaded critical iOS and Android application beta improvements, ensuring ",
-                "rapid deployment on the Google Play Store and Apple Store.",
-                "\u2022Revamped production-side code for native and third-party frameworks, ",
-                "guaranteeing polished and high-performance releases.",
-                "\u2022Led a comprehensive code updates, mastering data importation models and ",
-                "seamlessly implementing needed integration.",
-                "\u2022Utilized XCode and Android Studio, skillfully coding in Objective-C, Swift, Java, and ",
-                "REST for cross-platform excellence.",
-                "\u2022Operated seamlessly within MacOS and Windows environments, utilizing Atlassian ",
-                "Bitbucket and Git for streamlined version control.",
-                "\u2022Skillfully navigated complex Android and iOS applications, showcasing adaptability ",
-                "and expert problem-solving."
-            ]
-        },
-        {
-            "job_title": "Stay",
-            "company_name": "Home Parent",
-            "company_location": " Olathe",
+            "job_title": "Stay-at-Home Parent",
+            "company_name": "Home.com.org",
+            "company_location": "Olathe, KS",
             "employment_period": "April 2018 \u2014 April 2025",
             "responsibilities": [
                 "\u2022Nurtured my daughter's well-being from birth to age 4, serving as her primary ",
@@ -133,127 +83,63 @@
             ]
         },
         {
-            "job_title": "Data Science Course Facilitator",
-            "company_name": "University of Colorado Boulder",
-            "company_location": " Boulder",
-            "employment_period": "April 2025 \u2014 Present",
+            "job_title": "Software Development Support",
+            "company_name": "3 Fuerzas Technology Solutions (EDZSystems),",
+            "company_location": "Overland Park, KS",
+            "employment_period": "January 2018 \u2014 March 2018",
             "responsibilities": [
-                "\u2022Facilitate graduate-level courses in key areas of data science, including Probability ",
-                "and Statistics, Ethics in Data Science, Cybersecurity for Data Systems , and Data ",
-                "Visualization.",
-                "\u2022Helping students through rigorous academic content, breaking down complex ",
-                "topics such as probabilistic modeling, data privacy, ethical AI use, and visual ",
-                "storytelling with data.",
-                "\u2022Foster student engagement through interactive discussion boards, virtual office ",
-                "hours, and timely feedback on assignments and projects.",
-                "\u2022Assess and provide detailed feedback on coursework, reinforcing theoretical ",
-                "understanding and practical application of data science methods.",
-                "\u2022Support student learning through consistent communication and mentorship, "
+                "\u2022Led iOS and Android beta improvements for rapid deployment on Apple and Google ",
+                "Play Stores",
+                "\u2022Developed cross-platform features in Objective-C, Swift, Java, and REST, ",
+                "contributing to 4+ successful app releases",
+                "\u2022Updated data import models and executed seamless framework integrations",
+                "\u2022Developed in Objective-C, Swift, Java, and REST using Xcode and Android Studio",
+                "\u2022Worked across MacOS and Windows using Bitbucket and Git for version control",
+                "\u2022Troubleshot and enhanced complex mobile apps with strong adaptability and ",
+
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company_name": "SVP Consulting",
+            "company_location": "New Jersey",
+            "employment_period": "February 2018 \u2014 April 2018",
+            "responsibilities": [
+                "\u2022Built a high-performance Forex trading console using Python and MQL4 with Forex ",
+                "API integration",
+                "\u2022Implemented asynchronous threading and event listeners for automated, real-time ",
+                "trading",
+                "\u2022Used pipenv to manage Python environments and streamline development",
+                "\u2022Converted raw JSON trade data into Pandas dataframes for analysis and ",
+                "automation",
+                "\u2022Developed .txt file import/export functions to simplify data handling",
+                "\u2022Utilized Git for version control and solo-managed the project end to end",
+                "\u2022Portfolio: Upwork Profile"
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company_name": "Harvest Moon Studios",
+            "company_location": " Los Angeles",
+            "employment_period": "July 2016 \u2014 February 2017",
+            "responsibilities": [
+                "\u2022Led iOS app development for NOAA/NPS with animated transitions, photo galleries, ",
+                "and touch navigation using Swift in Xcode",
+                "\u2022Built and optimized a scalable image library for efficient batch page instancing ",
+                "across platforms",
+                "\u2022Developed a .NET WPF app with multi-touch support, custom UI animations, and ",
+                "advanced navigation for LA civic spaces",
+                "\u2022Migrated Java graphics scripts to C# to improve performance and efficiency",
+                "\u2022Created Python scripts for dynamic physics-based collision in animations"
             ]
         }
     ],
     "education": [
         {
-            "course_degree": "Bachelors of Science Mathematics",
-            "university": " University of Kansas",
-            "date": null,
+            "course_degree": "Masters of Science Data Science, University of Colorado Boulder",
+            "university": " Boulder",
+            "date": "January 2024 \u2014 Present",
             "links": null
-        },
-        {
-            "course_degree": "Basic Java Certification",
-            "university": " Hackerrank",
-            "date": "August 2023",
-            "links": "Certificate Link"
-        },
-        {
-            "course_degree": "Basic Python Certification",
-            "university": " Hackerrank",
-            "date": "August 2023",
-            "links": "Certificate Link"
-        },
-        {
-            "course_degree": "Introduction to Relational Databases(IBM)",
-            "university": " Coursera",
-            "date": "September 2023 \u2014 October 2023",
-            "links": "https://coursera.org/share/9f78c1fe77e0dcd3d66e3e2bb22db1e9"
-        },
-        {
-            "course_degree": "Python Project For Data Engineering (IBM)",
-            "university": " Coursera",
-            "date": "September 2023 \u2014 October 2023",
-            "links": "https://www.coursera.org/account/accomplishments/verify/LLY79EQJH8N4"
-        },
-        {
-            "course_degree": "Python For Data Science, AI, and Development (IBM)",
-            "university": " Coursera",
-            "date": "September 2023 \u2014 September 2023",
-            "links": "Certificate Link"
-        },
-        {
-            "course_degree": "Functional Programming Principles in Scala (EPFL) ",
-            "university": " Coursera",
-            "date": "September 2023 \u2014 October 2023",
-            "links": "Certificate Link"
-        },
-        {
-            "course_degree": "Introduction to Data Engineering (IBM)",
-            "university": " Coursera",
-            "date": "September 2023 \u2014 September 2023",
-            "links": "Certificate Link"
-        },
-        {
-            "course_degree": "Python Unit Tests to demonstrate TDD",
-            "university": " Coursera",
-            "date": "October 2023",
-            "links": "https://coursera.org/share/76500a77df0f563c5063173cdc331508"
-        },
-        {
-            "course_degree": "Databases and SQL for Data Science with Python",
-            "university": " Coursera",
-            "date": "October 2023 \u2014 October 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/AZAQ5ZCRTHFE"
-        },
-        {
-            "course_degree": "Hands-on Introduction to Linux Commands and Shell Scripting",
-            "university": " Coursera",
-            "date": "October 2023 \u2014 October 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/YPYLGTH9SLSG"
-        },
-        {
-            "course_degree": "Relational Database Administration (DBA) IBM",
-            "university": " Coursera",
-            "date": "October 2023 \u2014 October 2023",
-            "links": "https://coursera.org/share/e5dd06e4d01f4bdd883621c7dc56f4b2"
-        },
-        {
-            "course_degree": " ETL and Data Pipelines with Shell, Airflow and Kafka (IBM)",
-            "university": " Coursera",
-            "date": "October 2023 \u2014 November 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/TERSZUPBYXA6"
-        },
-        {
-            "course_degree": " Getting Started with Data Warehousing and BI Analytics",
-            "university": " Coursera",
-            "date": "November 2023 \u2014 November 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/A763MWENEKTV"
-        },
-        {
-            "course_degree": "Introduction to NoSQL Databases (IBM)",
-            "university": " Coursera",
-            "date": "November 2023 \u2014 November 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/H9SZYDEN9R53"
-        },
-        {
-            "course_degree": "Introduction to Big Data with Spark and Hadoop (IBM)",
-            "university": " Coursera",
-            "date": "November 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/4EVRFV5R6FSU"
-        },
-        {
-            "course_degree": "Machine Learning with Apache Spark",
-            "university": " Coursera (IBM)",
-            "date": "December 2023",
-            "links": "https://www.coursera.org/account/accomplishments/certificate/YSE4CX7HTM32"
         },
         {
             "course_degree": "IBM Data Engineering",
@@ -262,40 +148,16 @@
             "links": "https://coursera.org/share/5284efe66e8425bf918d6f2a67f4350c"
         },
         {
-            "course_degree": "Probability Theory; Foundation for Data Science",
-            "university": " University of Colorado-Boulder",
-            "date": "December 2023 \u2014 December 2023",
-            "links": "https://coursera.org/share/ec498635eb6464cbcf2d66ff8613d2df"
-        },
-        {
-            "course_degree": "Statistical Inference for Estimation in Data Science",
-            "university": " University of Colorado-Boulder",
-            "date": "January 2024 \u2014 January 2024",
-            "links": "https://coursera.org/share/26c44c5d0f41436db1f5c0ee9da8a15f"
-        },
-        {
-            "course_degree": "Microsoft Azure For Data Engineering",
-            "university": " Microsoft",
-            "date": "January 2024 \u2014 January 2024",
-            "links": "https://coursera.org/share/06fff2ab078d27c77609386122793809"
-        },
-        {
-            "course_degree": "Statistical Inference and Hypothesis Testing",
-            "university": " University of Colorado Boulder",
-            "date": "January 2024 \u2014 January 2024",
-            "links": "https://coursera.org/share/7a7aa80a77b10bbd5236db4c33064f94"
-        },
-        {
-            "course_degree": "Data Science Foundations: Statistical Inference",
-            "university": " University of Colorado Boulder",
-            "date": "December 2024",
-            "links": "https://coursera.org/share/5d060388be4f955d0ea9a8a99c742b56"
-        },
-        {
-            "course_degree": "Masters of Science Data Science, University of Colorado Boulder",
-            "university": " Boulder",
-            "date": "January 2024 \u2014 Present",
+            "course_degree": "Bachelors of Science Mathematics",
+            "university": " University of Kansas",
+            "date": "Full course list & certificates",
             "links": null
+        },
+        {
+            "course_degree": "Full course list & certificates",
+            "university": "",
+            "date": "",
+            "links": "https://github.com/christophermoverton/education-certification/edit/main/README.md"
         }
     ]
 }
