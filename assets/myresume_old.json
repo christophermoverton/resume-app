@@ -1,0 +1,163 @@
+{
+    "name": "Christopher Overton",
+    "contact": {
+        "location": "Overland Park,  Kansas",
+        "phone": "9134810582",
+        "email": "christophermoverton@gmail.com"
+    },
+    "links": [
+        "linkedin",
+        "github",
+        "hackerrank",
+        "Leetcode"
+    ],
+    "skills": [
+        "SKILLS",
+        "Python",
+        "Scala",
+        "SQL",
+        "R",
+        "Apache Spark",
+        "Apache Kafka",
+        "Apache Airflow",
+        "Pandas/Numpy",
+        "Sci-Kit Learn",
+        "Jupyter Notebooks",
+        "Machine Learning",
+        "ETL Pipelines",
+        "Data Warehousing",
+        "PostgreSQL / MySQL",
+        "MongoDB",
+        "Apache Cassandra",
+        "Microsoft Azure (Data Services)",
+        "Docker & Docker Compose",
+        "Data Visualization",
+        "Redash",
+        "Grafana",
+        "Matplotlib / Seaborn",
+        "problem-solving skills",
+        "Statistical Inference",
+        "Hypothesis Testing",
+        "Regression Analysis",
+        "IBM Cloudant",
+        "Git / GitHub",
+        "Linux / Shell Scripting",
+        "Data Modeling",
+        "Experimental Design (e.g., ANOVA)",
+        "Data Storytelling",
+        "Communication (for virtual course ",
+        "facilitation, etc.)",
+        "Team Collaboration (cross-functional experience)"
+    ],
+    "profile": "Experienced Software Developer with 6 years of success designing and developing \nhigh-performance applications across multiple platforms. Proven ability to lead projects, \noptimize complex systems, and collaborate effectively with cross-functional teams. \nActively transitioning into Data Analytics with strong skills in SQL, Python, statistics, \nand data engineering. Driven to turn data into actionable insights that solve real-world \nproblems and support informed decision-making.",
+    "employment_history": [
+        {
+            "job_title": "Data Science Course Facilitator",
+            "company_name": "University of Colorado Boulder",
+            "company_location": "Boulder, CO",
+            "employment_period": "April 2025 \u2014 Present",
+            "responsibilities": [
+                "\u2022Facilitation of graduate-level courses for 30+ students per term in Probability, ",
+                "Statistics, Ethics, Cybersecurity, and Data Visualization",
+                "\u2022Break down complex topics like probabilistic modeling, ethical AI, and visual data ",
+                "storytelling",
+                "\u2022Promote engagement via discussion boards, virtual office hours, and prompt ",
+                "feedback",
+                "\u2022Assess assignments with detailed input to reinforce theory and practical skills",
+                "\u2022Mentor and support diverse students in a remote learning environment through ",
+                "consistent communication"
+            ]
+        },
+        {
+            "job_title": "Stay-at-Home Parent",
+            "company_name": "Home.com.org",
+            "company_location": "Olathe, KS",
+            "employment_period": "April 2018 \u2014 April 2025",
+            "responsibilities": [
+                "\u2022Nurtured my daughter's well-being from birth to age 4, serving as her primary ",
+                "caregiver.",
+                "\u2022Seized a precious opportunity to be actively present during her formative years ",
+                "before she embarked on her educational journey.",
+                "\u2022Eagerly poised to relaunch my career in development, harnessing newfound ",
+                "experiences and skills cultivated during my time as a dedicated parent."
+            ]
+        },
+        {
+            "job_title": "Software Development Support",
+            "company_name": "3 Fuerzas Technology Solutions (EDZSystems),",
+            "company_location": "Overland Park, KS",
+            "employment_period": "January 2018 \u2014 March 2018",
+            "responsibilities": [
+                "\u2022Led iOS and Android beta improvements for rapid deployment on Apple and Google ",
+                "Play Stores",
+                "\u2022Developed cross-platform features in Objective-C, Swift, Java, and REST, ",
+                "contributing to 4+ successful app releases",
+                "\u2022Updated data import models and executed seamless framework integrations",
+                "\u2022Developed in Objective-C, Swift, Java, and REST using Xcode and Android Studio",
+                "\u2022Worked across MacOS and Windows using Bitbucket and Git for version control",
+                "\u2022Troubleshot and enhanced complex mobile apps with strong adaptability and "
+
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company_name": "SVP Consulting",
+            "company_location": "New Jersey",
+            "employment_period": "February 2018 \u2014 April 2018",
+            "responsibilities": [
+                "\u2022Built a high-performance Forex trading console using Python and MQL4 with Forex ",
+                "API integration",
+                "\u2022Implemented asynchronous threading and event listeners for automated, real-time ",
+                "trading",
+                "\u2022Used pipenv to manage Python environments and streamline development",
+                "\u2022Converted raw JSON trade data into Pandas dataframes for analysis and ",
+                "automation",
+                "\u2022Developed .txt file import/export functions to simplify data handling",
+                "\u2022Utilized Git for version control and solo-managed the project end to end",
+                "\u2022Portfolio: Upwork Profile"
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company_name": "Harvest Moon Studios",
+            "company_location": " Los Angeles",
+            "employment_period": "July 2016 \u2014 February 2017",
+            "responsibilities": [
+                "\u2022Led iOS app development for NOAA/NPS with animated transitions, photo galleries, ",
+                "and touch navigation using Swift in Xcode",
+                "\u2022Built and optimized a scalable image library for efficient batch page instancing ",
+                "across platforms",
+                "\u2022Developed a .NET WPF app with multi-touch support, custom UI animations, and ",
+                "advanced navigation for LA civic spaces",
+                "\u2022Migrated Java graphics scripts to C# to improve performance and efficiency",
+                "\u2022Created Python scripts for dynamic physics-based collision in animations"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "course_degree": "Masters of Science Data Science, University of Colorado Boulder",
+            "university": " Boulder",
+            "date": "January 2024 \u2014 Present",
+            "links": null
+        },
+        {
+            "course_degree": "IBM Data Engineering",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 December 2023",
+            "links": "https://coursera.org/share/5284efe66e8425bf918d6f2a67f4350c"
+        },
+        {
+            "course_degree": "Bachelors of Science Mathematics",
+            "university": " University of Kansas",
+            "date": "Full course list & certificates",
+            "links": null
+        },
+        {
+            "course_degree": "Full course list & certificates",
+            "university": "Github",
+            "date": "",
+            "links": "https://github.com/christophermoverton/education-certification/"
+        }
+    ]
+}

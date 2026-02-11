@@ -1,163 +1,161 @@
 {
-    "name": "Christopher Overton",
-    "contact": {
-        "location": "Overland Park,  Kansas",
-        "phone": "9134810582",
-        "email": "christophermoverton@gmail.com"
+  "name": "Christopher Overton",
+  "contact": {
+    "location": "Overland Park, KS",
+    "phone": "+1-913-481-0582",
+    "email": "christophermoverton@gmail.com"
+  },
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/<your-linkedin-handle>"
     },
-    "links": [
-        "linkedin",
-        "github",
-        "hackerrank",
-        "Leetcode"
-    ],
-    "skills": [
-        "SKILLS",
-        "Python",
-        "Scala",
-        "SQL",
-        "R",
-        "Apache Spark",
-        "Apache Kafka",
-        "Apache Airflow",
-        "Pandas/Numpy",
-        "Sci-Kit Learn",
-        "Jupyter Notebooks",
-        "Machine Learning",
-        "ETL Pipelines",
-        "Data Warehousing",
-        "PostgreSQL / MySQL",
-        "MongoDB",
-        "Apache Cassandra",
-        "Microsoft Azure (Data Services)",
-        "Docker & Docker Compose",
-        "Data Visualization",
-        "Redash",
-        "Grafana",
-        "Matplotlib / Seaborn",
-        "problem-solving skills",
-        "Statistical Inference",
-        "Hypothesis Testing",
-        "Regression Analysis",
-        "IBM Cloudant",
-        "Git / GitHub",
-        "Linux / Shell Scripting",
-        "Data Modeling",
-        "Experimental Design (e.g., ANOVA)",
-        "Data Storytelling",
-        "Communication (for virtual course ",
-        "facilitation, etc.)",
-        "Team Collaboration (cross-functional experience)"
-    ],
-    "profile": "Experienced Software Developer with 6 years of success designing and developing \nhigh-performance applications across multiple platforms. Proven ability to lead projects, \noptimize complex systems, and collaborate effectively with cross-functional teams. \nActively transitioning into Data Analytics with strong skills in SQL, Python, statistics, \nand data engineering. Driven to turn data into actionable insights that solve real-world \nproblems and support informed decision-making.",
-    "employment_history": [
-        {
-            "job_title": "Data Science Course Facilitator",
-            "company_name": "University of Colorado Boulder",
-            "company_location": "Boulder, CO",
-            "employment_period": "April 2025 \u2014 Present",
-            "responsibilities": [
-                "\u2022Facilitation of graduate-level courses for 30+ students per term in Probability, ",
-                "Statistics, Ethics, Cybersecurity, and Data Visualization",
-                "\u2022Break down complex topics like probabilistic modeling, ethical AI, and visual data ",
-                "storytelling",
-                "\u2022Promote engagement via discussion boards, virtual office hours, and prompt ",
-                "feedback",
-                "\u2022Assess assignments with detailed input to reinforce theory and practical skills",
-                "\u2022Mentor and support diverse students in a remote learning environment through ",
-                "consistent communication"
-            ]
-        },
-        {
-            "job_title": "Stay-at-Home Parent",
-            "company_name": "Home.com.org",
-            "company_location": "Olathe, KS",
-            "employment_period": "April 2018 \u2014 April 2025",
-            "responsibilities": [
-                "\u2022Nurtured my daughter's well-being from birth to age 4, serving as her primary ",
-                "caregiver.",
-                "\u2022Seized a precious opportunity to be actively present during her formative years ",
-                "before she embarked on her educational journey.",
-                "\u2022Eagerly poised to relaunch my career in development, harnessing newfound ",
-                "experiences and skills cultivated during my time as a dedicated parent."
-            ]
-        },
-        {
-            "job_title": "Software Development Support",
-            "company_name": "3 Fuerzas Technology Solutions (EDZSystems),",
-            "company_location": "Overland Park, KS",
-            "employment_period": "January 2018 \u2014 March 2018",
-            "responsibilities": [
-                "\u2022Led iOS and Android beta improvements for rapid deployment on Apple and Google ",
-                "Play Stores",
-                "\u2022Developed cross-platform features in Objective-C, Swift, Java, and REST, ",
-                "contributing to 4+ successful app releases",
-                "\u2022Updated data import models and executed seamless framework integrations",
-                "\u2022Developed in Objective-C, Swift, Java, and REST using Xcode and Android Studio",
-                "\u2022Worked across MacOS and Windows using Bitbucket and Git for version control",
-                "\u2022Troubleshot and enhanced complex mobile apps with strong adaptability and "
-
-            ]
-        },
-        {
-            "job_title": "Software Developer",
-            "company_name": "SVP Consulting",
-            "company_location": "New Jersey",
-            "employment_period": "February 2018 \u2014 April 2018",
-            "responsibilities": [
-                "\u2022Built a high-performance Forex trading console using Python and MQL4 with Forex ",
-                "API integration",
-                "\u2022Implemented asynchronous threading and event listeners for automated, real-time ",
-                "trading",
-                "\u2022Used pipenv to manage Python environments and streamline development",
-                "\u2022Converted raw JSON trade data into Pandas dataframes for analysis and ",
-                "automation",
-                "\u2022Developed .txt file import/export functions to simplify data handling",
-                "\u2022Utilized Git for version control and solo-managed the project end to end",
-                "\u2022Portfolio: Upwork Profile"
-            ]
-        },
-        {
-            "job_title": "Software Developer",
-            "company_name": "Harvest Moon Studios",
-            "company_location": " Los Angeles",
-            "employment_period": "July 2016 \u2014 February 2017",
-            "responsibilities": [
-                "\u2022Led iOS app development for NOAA/NPS with animated transitions, photo galleries, ",
-                "and touch navigation using Swift in Xcode",
-                "\u2022Built and optimized a scalable image library for efficient batch page instancing ",
-                "across platforms",
-                "\u2022Developed a .NET WPF app with multi-touch support, custom UI animations, and ",
-                "advanced navigation for LA civic spaces",
-                "\u2022Migrated Java graphics scripts to C# to improve performance and efficiency",
-                "\u2022Created Python scripts for dynamic physics-based collision in animations"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "course_degree": "Masters of Science Data Science, University of Colorado Boulder",
-            "university": " Boulder",
-            "date": "January 2024 \u2014 Present",
-            "links": null
-        },
-        {
-            "course_degree": "IBM Data Engineering",
-            "university": " Coursera",
-            "date": "September 2023 \u2014 December 2023",
-            "links": "https://coursera.org/share/5284efe66e8425bf918d6f2a67f4350c"
-        },
-        {
-            "course_degree": "Bachelors of Science Mathematics",
-            "university": " University of Kansas",
-            "date": "Full course list & certificates",
-            "links": null
-        },
-        {
-            "course_degree": "Full course list & certificates",
-            "university": "Github",
-            "date": "",
-            "links": "https://github.com/christophermoverton/education-certification/"
-        }
-    ]
+    {
+      "label": "GitHub",
+      "url": "https://github.com/christophermoverton"
+    },
+    {
+      "label": "HackerRank",
+      "url": "https://www.hackerrank.com/<your-hackerrank-handle>"
+    },
+    {
+      "label": "LeetCode",
+      "url": "https://leetcode.com/<your-leetcode-handle>"
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "R",
+    "Scala",
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "PyTorch",
+    "Jupyter Notebooks",
+    "Machine Learning",
+    "Applied Analytics",
+    "Statistical Inference",
+    "Hypothesis Testing",
+    "Regression Analysis",
+    "Experimental Design / A/B Testing",
+    "ETL Pipelines",
+    "Data Modeling",
+    "Data Warehousing",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Apache Spark",
+    "Apache Kafka",
+    "Apache Airflow",
+    "Docker",
+    "Docker Compose",
+    "Linux / Shell Scripting",
+    "Git / GitHub",
+    "Microsoft Azure (Data Services)",
+    "Data Visualization",
+    "Power BI",
+    "Tableau",
+    "Matplotlib",
+    "Seaborn",
+    "Grafana",
+    "Redash",
+    "Data Storytelling",
+    "Stakeholder Communication",
+    "Cross-functional Collaboration",
+    "Problem Solving"
+  ],
+  "profile": "Data Scientist / ML-focused analyst with strong applied analytics and graduate training in data science. Experienced translating business questions into measurable KPIs, validating data, building baselines, and iterating toward more robust ML solutions. Background includes graduate-level course facilitation in probability/statistics and related domains, with a track record of communicating complex concepts clearly to non-technical audiences. Interested in production-oriented analytics, experimentation, and ML workflows that drive real decisions.",
+  "employment_history": [
+    {
+      "job_title": "Data Science Course Facilitator",
+      "company_name": "University of Colorado Boulder",
+      "company_location": "Boulder, CO (Remote)",
+      "employment_period": "April 2025 — Present",
+      "responsibilities": [
+        "Facilitate graduate-level courses for 30+ students per term across Probability/Statistics, Ethics, Cybersecurity, and Data Visualization",
+        "Explain complex topics (e.g., probabilistic modeling, ethical AI, and data storytelling) with practical applications",
+        "Drive engagement via discussion boards, virtual office hours, and timely, actionable feedback",
+        "Assess assignments with detailed guidance to reinforce theory and industry-aligned skills",
+        "Mentor diverse students in a remote learning environment through consistent communication"
+      ]
+    },
+    {
+      "job_title": "Stay-at-Home Parent",
+      "company_name": "Family Caregiver",
+      "company_location": "Olathe, KS",
+      "employment_period": "April 2018 — April 2025",
+      "responsibilities": [
+        "Primary caregiver supporting early childhood development and daily routines",
+        "Developed strong planning, prioritization, and communication habits in a high-responsibility environment",
+        "Prepared for career relaunch through structured upskilling in data engineering and data science"
+      ]
+    },
+    {
+      "job_title": "Software Development Support",
+      "company_name": "3 Fuerzas Technology Solutions (EDZSystems)",
+      "company_location": "Overland Park, KS",
+      "employment_period": "January 2018 — March 2018",
+      "responsibilities": [
+        "Improved iOS and Android beta releases for deployment to Apple and Google Play Stores",
+        "Built cross-platform features using Objective-C, Swift, Java, and REST; contributed to multiple releases",
+        "Updated data import models and executed framework integrations",
+        "Worked across macOS and Windows using Git/Bitbucket for version control",
+        "Troubleshot and enhanced mobile app functionality under tight timelines"
+      ]
+    },
+    {
+      "job_title": "Software Developer (Contract)",
+      "company_name": "SVP Consulting",
+      "company_location": "New Jersey (Remote)",
+      "employment_period": "February 2018 — April 2018",
+      "responsibilities": [
+        "Built a Forex trading console using Python and MQL4 with API integration",
+        "Implemented asynchronous threading/event listeners for automated, real-time trading workflows",
+        "Managed Python environments with pipenv and streamlined reproducible development",
+        "Transformed raw JSON trade data into Pandas dataframes for analysis and automation",
+        "Implemented import/export utilities to simplify data handling and reporting",
+        "Solo-owned delivery using Git for version control"
+      ]
+    },
+    {
+      "job_title": "Software Developer",
+      "company_name": "Harvest Moon Studios",
+      "company_location": "Los Angeles, CA",
+      "employment_period": "July 2016 — February 2017",
+      "responsibilities": [
+        "Led iOS development work (Swift/Xcode) for a NOAA/NPS-focused app with interactive UI and media features",
+        "Optimized an image library for efficient batch page instancing across platforms",
+        "Developed a .NET WPF application with multi-touch support and custom UI animations",
+        "Migrated Java graphics scripts to C# to improve performance and maintainability",
+        "Created Python scripts to support physics-based collision behaviors in animations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "course_degree": "M.S. Data Science",
+      "university": "University of Colorado Boulder",
+      "date": "January 2024 — January 2026",
+      "links": null
+    },
+    {
+      "course_degree": "IBM Data Engineering Professional Certificate",
+      "university": "Coursera / IBM",
+      "date": "September 2023 — December 2023",
+      "links": "https://coursera.org/share/5284efe66e8425bf918d6f2a67f4350c"
+    },
+    {
+      "course_degree": "B.S. Mathematics",
+      "university": "University of Kansas",
+      "date": "",
+      "links": null
+    },
+    {
+      "course_degree": "Additional coursework & certificates",
+      "university": "GitHub",
+      "date": "",
+      "links": "https://github.com/christophermoverton/education-certification/"
+    }
+  ]
 }
